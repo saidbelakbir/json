@@ -1,0 +1,14 @@
+{
+  "MyAds" : {
+   "Interstitial_AdMob" : "ca-app-pub-3940256099942544/1033173712",
+    "Banner_AdMob": "ca-app-pub-3940256099942544/6300978111",
+
+    "UnityGameID" :"3653825" ,
+    "Banner_ad_unity":"BannerTest" ,
+    "Interstitial_ad_unity" : "InterstitialTest",
+
+    "Interstitial_Facebook" : "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+    "Banner_Facebook" : "IMG_16_9_APP_INSTALL#173186393601951_299214384332484"
+
+  }
+}
